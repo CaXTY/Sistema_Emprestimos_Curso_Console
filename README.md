@@ -11,7 +11,6 @@
 ---
 ## 🚀 Tecnologias
 <div>
-
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" />
 </div>          
 
