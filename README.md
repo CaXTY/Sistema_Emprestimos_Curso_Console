@@ -11,6 +11,7 @@
 ---
 ## 🚀 Tecnologias
 <div>
-  <img src="https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=C#&logoColor=white">
+
+
 </div>          
 
