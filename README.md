@@ -1,7 +1,7 @@
 <h1> Projeto Sistema Emprestimos</h1>
 
 <h2> Sobre </h2>
-<p> Projeto criado durante o Curso CrisTech. </p>
+<p> | Projeto criado durante o Curso CrisTech. </p>
 
 ---
 ## Instalação 
