@@ -6,7 +6,11 @@
 ---
 ## Instalação 
 
-1. Clone o repositório ou faça o download dos arquivos.
+| Clone o repositório ou faça o download dos arquivos.
+
+---
+## Autor
+| Carlos Eduardo <br> https://github.com/CaXTY
 
 ---
 ## 🚀 Tecnologias
